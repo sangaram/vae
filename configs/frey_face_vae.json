@@ -1,0 +1,5 @@
+{
+    "in_dim": 560,
+    "hidden_units": 200,
+    "latent_dim": 20
+}
